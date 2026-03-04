@@ -1,13 +1,11 @@
 # 👋 Olá! Eu sou **Helton Galant**
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" style="margin-right: 20px;">>
 
 ### 🚀 Cientista / Analista de Dados Júnior  
 📍 Rio de Janeiro – RJ  
 ✉️ **helton.galant@live.com**  
-📞 ~~(top secret)~~  
-🔗 **LinkedIn:** https://www.linkedin.com/in/helton-galant  
-🔗 **Instagram** https://www.instagram.com/hgalant?igsh=NDZhbmxla2VlZWVs
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-galant)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hgalant?igsh=NDZhbmxla2VlZWVs)
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -35,3 +33,5 @@ Tenho experiência sólida na área **Administrativa**, especialmente em **negó
 
 Se quiser falar sobre **oportunidades, projetos de dados ou colaboração**, entre em contato.  
 Estou sempre buscando evoluir e criar soluções que gerem impacto real.
+
+
