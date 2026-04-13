@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou **Helton Galant**
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" style="margin-right: 20px;">>
 
-### 🚀 Cientista / Analista de Dados Júnior  
+### 🚀 Cientista / Analista de Dados Júnior
+    com background em finanças, visão analítica e inglês fluente. 
+
 📍 Rio de Janeiro – RJ  
 ✉️ **helton.galant@live.com**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-galant)
